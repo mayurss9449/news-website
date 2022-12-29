@@ -1,0 +1,159 @@
+{
+
+    "status": "ok",
+    "totalResults": 10,
+    
+    "articles": [
+        
+        {
+            
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Hilaree Nelson: US mountaineer missing after 'skiing into crevasse'",
+            "description": "Hilaree Nelson appeared to fall into a 2,000ft gap in the ice descending the world's eighth tallest peak.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-63041973",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C1C6/production/_126860694_screenshot2022-09-26at1.57.51pm.png",
+            "publishedAt": "2022-09-27T16:07:21.0113991Z",
+            "content": "By Max MatzaBBC News\r\nRescuers in Nepal are searching for the famed US mountaineer Hilaree Nelson after she went missing on the world's eighth tallest mountain. \r\nMs Nelson reportedly fell into a dee… [+2804 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Portugal's mysterious 'birthing stones'",
+            "description": "In northern Portugal, a geological phenomenon has baffled scientists for decades: the rare Pedras Parideiras, or \"Birthing Stones\", which appear to miraculously spawn baby rocks.",
+            "url": "https://www.bbc.com/travel/article/20220926-portugals-mysterious-birthing-stones",
+            "urlToImage": "https://ychef.files.bbci.co.uk/live/624x351/p0d19q9m.jpg",
+            "publishedAt": "2022-09-27T15:37:24.4646801Z",
+            "content": "The theory spread so widely that, by the 1990s, mother rocks in Castanheira had become almost completely devoid of baby nodules on the surface level, as people from across Portugal and even abroad tr… [+1491 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Harry Styles' As It Was becomes longest-running US number one by a UK act",
+            "description": "The hit song becomes the longest-running number one on the US singles chart by a British artist.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-63045287",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14BBE/production/_126862948_hi078504951.jpg",
+            "publishedAt": "2022-09-27T14:22:22.1515261Z",
+            "content": "Harry Styles' hit As It Was has become the longest-running number one on the US singles chart by a British artist.\r\nThe song has scored a 15th week on top of the Billboard Hot 100, breaking the recor… [+1478 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Parkland shooting trial: Can warning signs stop a mass shooting?",
+            "description": "While each mass shooting in the US is unique, experts say the killers share some things in common.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62683094",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BABE/production/_126560874_gettyimages-1131175921.jpg",
+            "publishedAt": "2022-09-27T12:37:24.4956812Z",
+            "content": "By Robin Levinson-King &amp; Chelsea BaileyBBC News\r\nProsecutors in a high-profile US school shooting case have argued that the gunman should get the death penalty. While each mass shooting in the US… [+9856 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Shinzo Abe: A divided Japan bids farewell to its slain ex-PM",
+            "description": "Protesters marched against a state funeral for Abe even as local and global leaders gathered to honour him.",
+            "url": "http://www.bbc.co.uk/news/world-asia-63043774",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10D3E/production/_126862986_shinzo_abe_getty.jpg",
+            "publishedAt": "2022-09-27T12:22:22.4490908Z",
+            "content": "By Rupert Wingfield-HayesTokyo correspondent\r\nIn a black kimono Shinzo Abe's widow Akie walked slowly, carrying her husband's ashes in a silk-covered funeral urn. \r\nShe placed it on a wide altar cove… [+4240 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "King Charles: New royal cypher revealed",
+            "description": "The symbol of the new reign is being introduced but will only gradually appear on post boxes.",
+            "url": "http://www.bbc.co.uk/news/uk-63034255",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B9F6/production/_126860674_ciiir-cypher-comp.jpg",
+            "publishedAt": "2022-09-27T11:22:22.7767689Z",
+            "content": "By Sean CoughlanRoyal correspondent\r\nThe cypher of King Charles III has been revealed, showing an image to be used by government departments and on state documents and post boxes.\r\nIt was personally … [+2795 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Timed Teaser: How did Biden surprise Sir Elton?",
+            "description": "Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go!",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-63035333",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1671F/production/_126853919_eltibid.jpg",
+            "publishedAt": "2022-09-27T11:07:21.3242958Z",
+            "content": "Test your news knowledge against the clock. Can you outscore your friends? \r\nIf you cannot see the quiz, follow this link.\r\nWant more of the same? Try last week's teaser. Or take Friday's quiz of the… [+76 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Children removed from Jewish sect's jungle compound in Mexico",
+            "description": "It follows a months-long surveillance operation against the extremist Lev Tahor group in Mexico.",
+            "url": "http://www.bbc.co.uk/news/world-latin-america-62372365",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C5CC/production/_126863605_7b9749983a7723b8f7976401c7ece652cc8e0ae0.jpg",
+            "publishedAt": "2022-09-27T09:22:32.2497339Z",
+            "content": "By Raffi BergBBC News\r\nChildren and older teenagers have been removed from the jungle compound of a Jewish sect in Mexico following a raid by police, the BBC has learned.\r\nIt took place against the L… [+3072 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine latest: Putin poised to announce annexation of occupied regions - UK",
+            "description": "Russia is staging a final day of voting in \"referendums\" widely seen as part of a plan to annex Ukrainian territory.",
+            "url": "http://www.bbc.co.uk/news/live/world-europe-63045333",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2022-09-27T09:22:28.9471648Z",
+            "content": "Three offshore lines of the Nord Stream gas pipeline system have sustained \"unprecedented\" damage in one day, Nord Stream AG, the operator of the network, has said.\r\nSweden's Maritime Authority said … [+563 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Floridians brace for 'strengthening' Hurricane Ian",
+            "description": "Residents are stocking up on groceries, fuel and sandbags as Ian strengthens into a major hurricane.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-63036617",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/24F9/production/_126856490_gettyimages-1243501563.jpg",
+            "publishedAt": "2022-09-26T14:37:22.6502272Z",
+            "content": "By Sam CabralBBC News\r\nAuthorities in Florida have urged residents to \"make their preparations\" as Tropical Storm Ian strengthened into a Category 1 hurricane early on Monday.\r\nIan was forecast to mo… [+2490 chars]"
+        }
+    ]
+
+}
